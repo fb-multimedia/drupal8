@@ -1,0 +1,5 @@
+# Schema for the theme setting configuration file of the fred theme.
+
+fred.settings:
+  type: theme_settings
+  label: 'fred settings'
